@@ -11,7 +11,7 @@ Se utiliza una versión simplificada del **MIMII Dataset** (Malfunctioning Indus
 1. Clonar este repositorio.
    ```bash
    git clone https://github.com/carlosrivasa/indufan.git
-   cd daut
+   cd indufan
    ```
 
 2. Crear un entorno virtual, activarlo e instalar las dependencias:
